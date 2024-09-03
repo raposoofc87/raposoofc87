@@ -16,3 +16,5 @@ Possuo mais de 18 anos de experiência no ramo alimentício, já fui supervisor 
 * Aplicação da ferramenta COPC
 * Designer Gráfico com uso do Canva
 
+# 
+![gif programador](https://github.com/user-attachments/assets/fc764491-81ea-44ee-8f6e-583cf8217507)
