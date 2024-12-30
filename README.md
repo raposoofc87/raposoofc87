@@ -1,13 +1,12 @@
 # 
 ## Olá, tudo bem?
 ## Me chamo Rodolpho Rapôso
-* Auxiliar de Ativos
 * Programador Web
 * Católico Apostólico Romano
 * Pai da Maria Rita
 # 
 ## Experiência Profissional
-Possuo mais de 18 anos de experiência no ramo alimentício, já fui supervisor de operações de telemarketing, gerente de pastelaria, empreendedor do ramo alimentício, vendedor, professor de côco de roda, entre outras tantas experiências que me formaram no profissional experiente que sou hoje.
+Iniciando a migração de carreira, hoje sou aluno do Curso Técnico de Informática para Internet no SENAI/AL, ou seja, uma formação técnica para Programador Web.
 # 
 ## Interesses e Conhecimentos
 * Excel intermediário
